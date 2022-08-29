@@ -1,0 +1,43 @@
+/*Google fonts*/
+
+@import url();
+
+/*Variable CSS*/
+
+:root {
+    /*Colors*/
+    --bg-color: #;
+    --bg-color-dark: #;
+    --font-color: #;
+    --font-color-dark: #;
+    --container-color: #;
+    /*Fonts and typography*/
+    /*Weight*/
+    /*Margin*/
+    /*Z-index*/
+}
+
+*,
+ ::after,
+ ::before {
+    box-sizing: border-box;
+}
+
+body {
+    scroll-behavior: smooth;
+}
+
+h1,
+h2,
+h3,
+p,
+ul,
+li {
+    text-decoration: none;
+}
+
+.rnd,
+.btn {
+    justify-content: center;
+    align-items: center;
+}
